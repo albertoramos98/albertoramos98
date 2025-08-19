@@ -35,9 +35,7 @@ Fora da programação, atuo como **social media**, **empreendedor** e **produtor
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertoramos&show_icons=true&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertoramos&theme=tokyonight" />
