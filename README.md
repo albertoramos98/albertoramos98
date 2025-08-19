@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Python & Web | Explorador de IA | Freelancer</strong><br>
-  📍 Recife - PE | 🎓 4º período de ADS | 🎧 Produtor musical nas horas vagas
+  📍 Recife - PE | 🎓 5º período de ADS | 🎧 Produtor musical nas horas vagas
 </p>
 
 ---
