@@ -61,7 +61,7 @@ Fora da programação, atuo como **social media**, **empreendedor** e **produtor
 ### 📬 Contato
 
 - 💬 WhatsApp: [clique aqui](https://wa.me/5581993644694)
-- 📧 Email: albertordev@gmail.com
+- 📧 Email: alpemc.dev@gmail.com
 - 💻 Instagram profissional: [@albertordev](https://instagram.com/alpe.nc)
 
 ---
